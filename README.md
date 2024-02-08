@@ -14,6 +14,9 @@ How to install and use
 6. In the CMD Prompt window, type "python youtube_downloader.py"
 7. Follow the instructions in CMD Prompt.
 
+If you receive this error in CMD Prompt "HTTP Error 500: Internal Server Error"
+  refresh youtube or open the video in a new window and try again. This error is on YouTube's Sever side and not an issue with this program.
+
 LICENSED WITH Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)
 Please refer to the "CC BY-NC-ND" file for the full license.
 
