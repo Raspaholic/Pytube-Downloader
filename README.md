@@ -1,6 +1,6 @@
 # Pytube-Downloader
 A YouTube video downloader made with Python
-For now, this program is ran through the Command Prompt at the files location on your computer. From there, run the file in cmd prompt, paste the link, select the video resolution, and download. 
+For now, this program is ran through the Command Prompt at the files' location on your computer. The program creates a folder in that directory for completed downloaded videos. 
 ENSURE DEPENDENCIES ARE INSTALLED FIRST BEFORE USING THE PROGRAM
 
 How to install and use
