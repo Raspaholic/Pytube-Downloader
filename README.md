@@ -1,5 +1,7 @@
 # Pytube-Downloader
 A YouTube video downloader made with Python
+REFER TO CC BY-NC-ND LICENSE
+
 For now, this program is ran through the Command Prompt at the files' location on your computer. The program creates a folder in that directory for completed downloaded videos. 
 ENSURE DEPENDENCIES ARE INSTALLED FIRST BEFORE USING THE PROGRAM
 
